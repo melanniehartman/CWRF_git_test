@@ -1,7 +1,7 @@
 
 PROGRAM cwrf_test
 
-! Main program to test the CWRF/DayCent interface
+!HOLAAAAA Main program to test the CWRF/DayCent interface
 ! * calls GetWthNcFileDim() to get the dimensions of the netcdf weather files
 ! * calls allocGridCells() to allocate memory for all grid cells
 ! * calls ReadWthNcFile() each year for each weather variable to read meteorological drivers
