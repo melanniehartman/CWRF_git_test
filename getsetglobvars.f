@@ -1,5 +1,6 @@
       subroutine getsetglobvars(dcinput,dcgridpt,doinit,endOfDay)
 
+c   ANOTHER MODIF
 c   Contains subroutine getsetglobvars that calls other subroutines for 
 c   getting/setting global variables at the beginning/end of each daily timestep.
 c   Subroutine getsetglobvars in called by daycent_init and daycent_driver
