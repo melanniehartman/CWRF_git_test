@@ -1,4 +1,6 @@
 MODULE module_daycent_cwrf_interface
+
+! Test merging from main branch
     
 ! This module
 ! - defines input type (dcInputs)
